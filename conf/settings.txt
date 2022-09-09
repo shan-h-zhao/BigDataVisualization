@@ -1,0 +1,4 @@
+server = cti-wejo-db-prd.engr.uconn.edu
+database = Wejo
+username = wejo_reader
+password = &uFUvLGu$R1xeJIc*Lth
